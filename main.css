@@ -1,5 +1,5 @@
 body {
-    background-color: #76c8ff;
+    background-color: #541579;
     margin: 0;
     font-family: sans-serif;
     display: flex;
@@ -20,7 +20,7 @@ header {
 
 header a {
     color: white;
-    background-color: #13a0ff;
+    background-color: #541579;
     border: solid 1px gray;
     border-radius: 3px;
     padding: .25rem .5rem;
@@ -32,7 +32,7 @@ header a {
 }
 
 header a:hover, form button:hover {
-    background-color: #1084d1;
+    background-color: #541579;
     cursor: pointer;
 }
 
@@ -64,7 +64,7 @@ form input, form button {
 
 form button {
     color: white;
-    background-color: #13a0ff;
+    background-color: #541579;
 }
 
 footer {
